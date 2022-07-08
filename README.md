@@ -4,6 +4,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=muhammedsural&show_icons=true">
 
 Hi, My name is Muhammed Sural. I'm working on earthquake and structure engineering. Welcome to my github space.
+- 🔭 I’m currently working on programming about structure analysis and design, selection-scaling on earthquake records
 
 [![Twitter](https://img.shields.io/twitter/follow/SuralMuhammet?style=social)](https://twitter.com/SuralMuhammet)
 [![Github](https://img.shields.io/github/followers/muhammedsural?style=social)](https://github.com/muhammedsural)
