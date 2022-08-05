@@ -10,7 +10,7 @@ Hi, My name is Muhammed Sural. I'm working on earthquake and structure engineeri
 [![Github](https://img.shields.io/github/followers/muhammedsural?style=social)](https://github.com/muhammedsural)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedsural/)
 
-//![Profile View Counter](https://komarev.com/ghpvc/?username=muhammedsural)
+
 
 ### 💬 Contact
 
