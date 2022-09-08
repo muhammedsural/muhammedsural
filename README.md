@@ -8,8 +8,8 @@ Hi, My name is Muhammed Sural. I'm working on structure engineering and sofware 
 
 ### 💬 Contact
 
-<a href="https://github.com/muhammedsural" target="_blank">
-  <img src=https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSuralMuhammet alt=github style="margin-bottom: 5px;" </img>
+<a href="https://twitter.com/SuralMuhammet" target="_blank">
+  <img src=https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSuralMuhammet alt=twitter style="margin-bottom: 5px;" </img>
 </a>
 
 <a href="https://github.com/muhammedsural" target="_blank">
