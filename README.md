@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 [![BilgeAdamBitirme Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=BilgeAdamBitirmeProjesi)](https://github.com/muhammedsural/BilgeAdamBitirmeProjesi)
 
-### BilgeAdamBitirme Repo
+### TBDY Material Hysteric Repo
 
 [![TBDY-2018-Malzeme-Modelleri Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=TBDY-2018-Malzeme-Modelleri)](https://github.com/muhammedsural/TBDY-2018-Malzeme-Modelleri)
 
