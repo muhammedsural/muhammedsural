@@ -74,6 +74,16 @@ Here are some ideas to get you started:
 
 ## Notable repositories
 
+### TBDY Material Hysteric Repo
+
+[![TBDY-2018-Malzeme-Modelleri Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=TBDY-2018-Malzeme-Modelleri)](https://github.com/muhammedsural/TBDY-2018-Malzeme-Modelleri)
+
+### Steel Design Repo
+[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/SteelDesign)
+
+### OpenSees Analyzer Repo
+[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/msops)
+
 ### KodlamaioDevs Repo
 
 [![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/Kodlama.io.devs)
@@ -81,11 +91,6 @@ Here are some ideas to get you started:
 ### BilgeAdamBitirme Repo
 
 [![BilgeAdamBitirme Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=BilgeAdamBitirmeProjesi)](https://github.com/muhammedsural/BilgeAdamBitirmeProjesi)
-
-### TBDY Material Hysteric Repo
-
-[![TBDY-2018-Malzeme-Modelleri Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=TBDY-2018-Malzeme-Modelleri)](https://github.com/muhammedsural/TBDY-2018-Malzeme-Modelleri)
-
 
 
 ## Stats
