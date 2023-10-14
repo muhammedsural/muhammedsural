@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 [![TBDY-2018-Malzeme-Modelleri Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=TBDY-2018-Malzeme-Modelleri)](https://github.com/muhammedsural/TBDY-2018-Malzeme-Modelleri)
 
 ### Steel Design Repo
-[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/SteelDesign)
+[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=SteelDesign)](https://github.com/muhammedsural/SteelDesign)
 
 ### OpenSees Analyzer Repo
-[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/msops)
+[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=msops)](https://github.com/muhammedsural/msops)
 
 ### KodlamaioDevs Repo
 
