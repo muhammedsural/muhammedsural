@@ -23,9 +23,7 @@ Hi, My name is Muhammed Sural. I'm working on structure engineering and sofware 
 <a href="mailto:muhammedsural@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
-<a href="mailto:muhammedsural@gmail.com" target="_blank">
-<img src=https://img.shields.io/youtube/channel/subscribers/UCvi3kpLjkY53OhjnE6Oz8XQ?style=for-the-badge&logo=youtube&logoColor=red alt=gmail style="margin-bottom: 5px;" />
-</a> 
+
 
 <a  target="_blank">
 <img src=https://komarev.com/ghpvc/?username=muhammedsural alt=viewers style="margin-bottom: 5px;" />
