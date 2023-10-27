@@ -26,8 +26,7 @@ Hi, My name is Muhammed Sural. I'm working on structure engineering and sofware 
 
 
 <a  target="_blank">
-<img src=https://komarev.com/ghpvc/?username=muhammedsural alt=viewers style="margin-bottom: 5px;" />
-  ![](https://hit.yhype.me/github/profile?user_id=59420199)
+<img src=https://komarev.com/ghpvc/?username=muhammedsural&style=flat-square alt=viewers style="margin-bottom: 5px;" />
 </a> 
 
 <!--
@@ -98,4 +97,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/muhammedsural"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedsural&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 <a href="https://github.com/muhammedsural"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsural&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
-
+![](https://hit.yhype.me/github/profile?user_id=59420199)
