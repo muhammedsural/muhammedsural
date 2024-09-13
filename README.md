@@ -74,6 +74,22 @@ Here are some ideas to get you started:
 
 ## Notable repositories
 
+### BilgeAdamBitirme Repo
+
+[![BilgeAdamBitirme Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=BilgeAdamBitirmeProjesi)](https://github.com/muhammedsural/BilgeAdamBitirmeProjesi)
+
+### KodlamaioDevs Repo
+
+[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/Kodlama.io.devs)
+
+### Sorting Algorithms Repo
+
+[![SortingAlgorithms Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=SortingAlgorithms)](https://github.com/muhammedsural/SortingAlgorithms)
+
+### MyFinalProject Repo
+
+[![MyFinalProject Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=MyFinalProject)](https://github.com/muhammedsural/MyFinalProject)
+
 ### TBDY Material Hysteric Repo
 
 [![TBDY-2018-Malzeme-Modelleri Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=TBDY-2018-Malzeme-Modelleri)](https://github.com/muhammedsural/TBDY-2018-Malzeme-Modelleri)
@@ -84,13 +100,7 @@ Here are some ideas to get you started:
 ### OpenSees Analyzer Repo
 [![OpenSees Analyzer Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=msops)](https://github.com/muhammedsural/msops)
 
-### KodlamaioDevs Repo
 
-[![KodlamaioDevs Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=Kodlama.io.devs)](https://github.com/muhammedsural/Kodlama.io.devs)
-
-### BilgeAdamBitirme Repo
-
-[![BilgeAdamBitirme Repo](https://github-readme-stats.vercel.app/api/pin/?username=muhammedsural&repo=BilgeAdamBitirmeProjesi)](https://github.com/muhammedsural/BilgeAdamBitirmeProjesi)
 
 
 ## Stats
