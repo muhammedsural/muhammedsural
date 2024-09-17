@@ -2,8 +2,8 @@
 
 # Muhammed Sural
 
-Hi, My name is Muhammed Sural. I'm working on structure engineering and sofware engineering . Welcome to my github space.
-- 🔭 I’m currently working on programming about structure analysis and design, selection-scaling on earthquake records.Also I'm working on web and destktop applications 
+Hi, My name is Muhammed Sural. I'm working on sofware engineering . Welcome to my github space.
+- 🔭 I’m currently working on programming about web and destktop applications 
 
 
 ### 💬 Contact
